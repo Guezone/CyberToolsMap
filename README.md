@@ -1,6 +1,6 @@
 # CyberToolsMap
 
-This toolmap was created and is maintained by the @ESD-academy class of Rennes 2020-2021.
+This toolmap was created and is maintained by the <a href="https://github.com/ESD-academy" target='_blank'>@ESD-academy</a> class of Rennes 2020-2021.
 
 <img src="https://raw.githubusercontent.com/Guezone/CyberToolsMap/main/CyberToolsMap.drawio.svg"></img>
 
